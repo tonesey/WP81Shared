@@ -4,7 +4,7 @@ using System.IO.IsolatedStorage;
 using System.Linq;
 using System.Text;
 
-namespace Wp7Shared.Helpers
+namespace Wp81Shared.Helpers
 {
     public class StorageHelper
     {

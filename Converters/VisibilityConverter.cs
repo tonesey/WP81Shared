@@ -4,7 +4,7 @@ using System.Windows;
 using System.Windows.Data;
 
 
-namespace Wp7Shared.Converters
+namespace Wp81Shared.Converters
 {
     public class VisibilityConverter : IValueConverter
     {

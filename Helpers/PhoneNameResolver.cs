@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Wp7Shared.Helpers
+namespace Wp81Shared.Helpers
 {
 
     //https://github.com/ailon/PhoneNameResolver/blob/master/PhoneNameResolver.cs

@@ -10,7 +10,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using System.Windows.Interactivity;
 
-namespace Wp7Shared.Behaviours
+namespace Wp81Shared.Behaviours
 {
     public class LoadedBehavior : Behavior<FrameworkElement>
     {

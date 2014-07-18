@@ -14,7 +14,7 @@
 //using System.Windows.Threading;
 //using System.ComponentModel;
 
-//namespace Wp7Shared.Sound
+//namespace Wp81Shared.Sound
 //{
 //    public class SoundHelper : INotifyPropertyChanged
 //    {

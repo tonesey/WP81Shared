@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Xml.Linq;
 
-namespace Wp7Shared.Helpers
+namespace Wp81Shared.Helpers
 {
     public class AppInfosHelper
     {

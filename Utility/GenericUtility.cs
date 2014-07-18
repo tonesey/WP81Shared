@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Wp7Shared.Utility
+namespace Wp81Shared.Utility
 {
     public static class GenericUtility
     {

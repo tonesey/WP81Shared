@@ -11,7 +11,7 @@ using System.Windows.Shapes;
 using System.Windows.Data;
 using System.Globalization;
 
-namespace Wp7Shared.Converters
+namespace Wp81Shared.Converters
 {
     public class FavoriteBrushConverter : IValueConverter
     {

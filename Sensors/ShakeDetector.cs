@@ -10,7 +10,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Microsoft.Devices.Sensors;
 
-namespace Wp7Shared.Sensors
+namespace Wp81Shared.Sensors
 {
     public class ShakeDetector
     {

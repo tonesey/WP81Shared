@@ -11,7 +11,7 @@ using System.Windows.Shapes;
 using System.Windows.Navigation;
 using System.Windows.Threading;
 
-namespace Wp7Shared.Helpers
+namespace Wp81Shared.Helpers
 {
     public class NavigationHelper
     {
