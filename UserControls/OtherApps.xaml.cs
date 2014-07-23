@@ -2,7 +2,7 @@
 using System.Windows.Controls.Primitives;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Tasks;
-using Wp7Shared.Helpers;
+using Wp81Shared.Helpers;
 using System.Collections.Generic;
 using Microsoft.Phone.Reactive;
 using System.Linq;
@@ -10,7 +10,7 @@ using System;
 using System.Windows.Media.Imaging;
 using System.Threading;
 
-namespace Wp7Shared.UserControls
+namespace Wp81Shared.UserControls
 {
     public partial class OtherApps
     {
