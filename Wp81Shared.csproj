@@ -27,7 +27,7 @@
     <OldToolsVersion>4.0</OldToolsVersion>
     <MinimumVisualStudioVersion>12.0</MinimumVisualStudioVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <NuGetPackageImportStamp>1fb6e886</NuGetPackageImportStamp>
+    <NuGetPackageImportStamp>cdb95b9f</NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
